@@ -68,9 +68,9 @@ Prenom :
 Compte Github :
 
 ## Groupe 9
-Nom :
-Prenom :
-Compte Github :
+Nom :EMMANUEL DADY
+Prenom :Farid 
+Compte Github :https://github.com/farid07
 ---
 Nom : Alaofe
 Prenom :moufid
