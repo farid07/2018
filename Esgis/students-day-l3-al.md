@@ -69,7 +69,7 @@ Compte Github :
 
 ## Groupe 9
 Nom :EMMANUEL DADY
-Prenom :Farid 
+Prenom :Farid Credo
 Compte Github :https://github.com/farid07
 ---
 Nom : Alaofe
